@@ -11,3 +11,41 @@
 .centralizar {
     text-align: center;
 }
+
+div {
+    border: 1px dashed;
+    width: 200px;
+    height: 150px;
+    color: red
+}
+#container { 
+    background-color: lightcoral; 
+    width: 90%;
+    height: 900px;
+}
+#cabecalho {
+    background-color: lightblue;
+    width: 100%;
+    height: 15%;
+}
+#conteudo {
+    width: 100%;
+    height: 60%;
+}
+#menu_lateral {
+    background-color: lightseagreen;
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+#conteudo_lateral {
+    background-color: lightgray;
+    width: 65%;
+    height: 100%;
+    float: right;
+}
+#rodape {
+    background-color: lightyellow;
+    width: 100%;
+    height: 15%;
+}
